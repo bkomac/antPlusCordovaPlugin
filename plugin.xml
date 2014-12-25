@@ -23,6 +23,8 @@
             <feature name="Echo" >
                 <param name="android-package" value="net.tracksbox.plugin.echo.Echo"/>
             </feature>
+            
+            <plugin name="Echo" value="net.tracksbox.plugin.echo.Echo"/>
         </config-file>
 
         <source-file src="src/Echo.java" target-dir="src/net/tracksbox/plugin/echo" />
