@@ -10,11 +10,12 @@
     <license>MIT</license>
     <keywords>cordova,echo</keywords>
     <repo>https://github.com/bkomac/antPlusCordovaPlugin.git</repo>
-    <issue>https://github.com/bkomac/antPlusCordovaPlugin</issue>
+   
 
-    <js-module src="www/echoPlugin.js" name="echoPlugin">
-        
-    </js-module>
+    <asset src="www/EchoPlugin.js" target="plugins/EchoPlugin.js" />
+<engines>
+<engine name="cordova" version=">=2.7.0" />
+</engines>
 
     <!-- android -->
     <platform name="android">
