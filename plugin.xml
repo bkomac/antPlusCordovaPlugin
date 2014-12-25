@@ -13,9 +13,9 @@
    
 
     <asset src="www/EchoPlugin.js" target="plugins/EchoPlugin.js" />
-<engines>
-<engine name="cordova" version=">=2.7.0" />
-</engines>
+    <engines>
+        <engine name="cordova" version=">=2.7.0" />
+    </engines>
 
     <!-- android -->
     <platform name="android">
