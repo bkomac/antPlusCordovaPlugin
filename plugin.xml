@@ -12,7 +12,7 @@
     <repo>https://github.com/bkomac/antPlusCordovaPlugin.git</repo>
    
 
-    <asset src="www/EchoPlugin.js" target="plugins/EchoPlugin.js" />
+    <asset src="www/EchoPlugin.js" target="js/EchoPlugin.js" />
     <engines>
         <engine name="cordova" version=">=2.7.0" />
     </engines>
