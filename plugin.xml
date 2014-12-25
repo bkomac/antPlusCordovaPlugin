@@ -13,7 +13,7 @@
     <issue>https://github.com/bkomac/antPlusCordovaPlugin</issue>
 
     <js-module src="www/echoPlugin.js" name="echoPlugin">
-        <clobbers target="echo" />
+        
     </js-module>
 
     <!-- android -->
